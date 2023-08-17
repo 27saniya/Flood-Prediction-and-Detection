@@ -14,6 +14,35 @@ All these data were collected for a duartion of one month after every 15 minutes
 ### Data Exploration:
 
 ![image](https://github.com/27saniya/Flood-Prediction-and-Detection/assets/101293878/d6489cec-5357-432b-a31d-34b19bf715ae)
+![image](https://github.com/27saniya/Flood-Prediction-and-Detection/assets/101293878/6506a3ef-3c85-40cc-a6fe-15fcb1f3fd60)
+
+### Data Pre-processing:
+- Data not relevant for the analysis was removed
+- Missing values were handled
+- For image data, the images were cropped to eliminate noise and image enhancing was performed <br>
+
+### Data Integration:
+
+- Data from these sources was then merged based on the timestamp
+- One hot encoding and normalization was also performed
+
+### Data Preparation:
+- Data was then split into training and testing sets (80:20)
+- The data was imbalanced, hence SMOTE was performed
+- 3 fold cross validation was also performed
+
+### Machine Learning:
+Models Used:
+1. Support Vector Machines
+2. Random Forest
+3. XG Boost Classifier
+4. K-means Clustering
+
+### Results:
+
+![image](https://github.com/27saniya/Flood-Prediction-and-Detection/assets/101293878/a360ade7-4178-446d-883f-e3a4cac269a8)
+
+
 
 
 
