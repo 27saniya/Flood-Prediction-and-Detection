@@ -6,10 +6,11 @@ Previous research paper review: Supervised Machine learning algorithms can face 
 Hence the goal is to implement supervised as well as unsupervised machine learning models on satellite imagery, tidal, rainfall data to understand which method is more robust and gives better flood prediction accuracy.
 
 ## Data Description:
-1. INSAT Images extracted with Python Script from IMD website.
-https://mausam.imd.gov.in
-Contains data such as Visual, IR, time and water-vapor.
-![image](https://github.com/27saniya/Flood-Prediction-and-Detection/assets/101293878/98a1a468-f6fd-4082-b310-2345ac0d6789)
+1. INSAT Images extracted with Python Script from IMD website. https://mausam.imd.gov.in
+2. Weather Data collected from OpenWeather API. https://openweathermap.org
+3. Tidal Data collected from MareaAPI https://api.marea.ooo/
+
+
 
 
 
