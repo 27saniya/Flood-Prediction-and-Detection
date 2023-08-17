@@ -8,7 +8,7 @@ Hence the goal is to implement supervised as well as unsupervised machine learni
 ## Data Description:
 1. INSAT Images (jpg format) extracted with Python Script from IMD website. https://mausam.imd.gov.in 
 2. Weather Data (json format) collected from OpenWeather API. https://openweathermap.org
-3. Tidal Data (json format) collected from MareaAPI https://api.marea.ooo/
+3. Tidal Data (json format) collected from MareaAPI https://api.marea.ooo/ <br>
 All these data were collected for a duartion of one month after every 15 minutes
 
 
