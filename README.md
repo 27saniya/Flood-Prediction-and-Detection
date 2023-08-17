@@ -13,17 +13,10 @@ All these data were collected for a duartion of one month after every 15 minutes
 
 ### Data Exploration:
 
-Weather Description:
-![image](https://github.com/27saniya/Flood-Prediction-and-Detection/assets/101293878/d481ccf2-8874-4ad5-abe7-76cf95e0d207)
+![image](https://github.com/27saniya/Flood-Prediction-and-Detection/assets/101293878/d6489cec-5357-432b-a31d-34b19bf715ae)
 
-Distribution of Humisdity (%)
-![image](https://github.com/27saniya/Flood-Prediction-and-Detection/assets/101293878/42c89945-2613-4323-9b89-322ea08f5a8c)
 
-Trend for pixel count
-![image](https://github.com/27saniya/Flood-Prediction-and-Detection/assets/101293878/ea2d8c6d-c40e-4b85-8006-45d7f992828c)
 
-Distribution of Tidal Height
-![image](https://github.com/27saniya/Flood-Prediction-and-Detection/assets/101293878/4a766dba-4a00-4176-94b0-74c21032a599)
 
 
 
